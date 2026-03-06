@@ -91,11 +91,11 @@ const HeroSection = () => {
           <div className="flex gap-4 mb-8">
             <div className="hero-badge flex items-center gap-2 px-4 py-2 glass-card text-sm">
               <Code className="w-4 h-4 text-primary" />
-              <span className="text-muted-foreground">Software Developer</span>
+              <span className="text-muted-foreground">AI Engineer</span>
             </div>
             <div className="hero-badge flex items-center gap-2 px-4 py-2 glass-card text-sm">
               <Palette className="w-4 h-4 text-accent" />
-              <span className="text-muted-foreground">Visual Designer</span>
+              <span className="text-muted-foreground">Full-Stack Developer</span>
             </div>
           </div>
 
@@ -109,22 +109,21 @@ const HeroSection = () => {
             </div>
             <div className="overflow-hidden">
               <span className="hero-line block text-gradient glow-text">
-                Digital Experiences
+                AI Experiences
               </span>
             </div>
             <div className="overflow-hidden">
               <span className="hero-line block text-muted-foreground/60">
-                That Inspire
+                That Evolve
               </span>
             </div>
           </h1>
 
           {/* Subtitle */}
           <p className="hero-subtitle text-lg md:text-xl text-muted-foreground max-w-2xl mb-12">
-            Crafting stunning websites and captivating visual content. From{' '}
-            <span className="text-primary">React applications</span> to{' '}
-            <span className="text-accent">motion graphics</span> — I bring ideas
-            to life with code and creativity.
+            Developing intelligent web apps, LLM solutions, and autonomous agents where{' '}
+            <span className="text-primary">creativity</span> meets{' '}
+            <span className="text-accent">artificial intelligence</span> —  to bring bold ideas to life.
           </p>
 
           {/* CTAs */}

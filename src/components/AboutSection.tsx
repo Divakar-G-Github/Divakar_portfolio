@@ -47,10 +47,12 @@ const AboutSection = () => {
                 Divakar G
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                I'm a passionate <span className="text-foreground">Software Developer</span> and{' '}
-                <span className="text-foreground">Graphic Designer</span> based in Chennai, India.
-                I specialize in building modern web applications while also creating stunning
-                visual content through motion graphics and digital design.
+                I'm a passionate <span className="text-foreground">AI Developer</span> and{' '}
+                <span className="text-foreground">Creative Technologist</span> based in 
+                    Chennai, India. I specialize in building intelligent applications 
+                    powered by LLMs and autonomous agents — blending technical depth 
+                    with a designer's eye to craft AI experiences that are as beautiful 
+                    as they are smart.
               </p>
             </div>
 
@@ -88,7 +90,7 @@ const AboutSection = () => {
                 <div>
                   <h4 className="font-semibold mb-1">Experience</h4>
                   <p className="text-muted-foreground text-sm">
-                    Frontend Developer Trainee at Cognitive Value Tech
+                    AI Engineer at Cognitive Value Tech
                   </p>
                   <p className="text-muted-foreground/60 text-xs mt-1">
                     8 months of hands-on development experience
